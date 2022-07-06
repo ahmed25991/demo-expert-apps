@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Expert Apps Demo</string>
+
+    <string name="position" translatable="false">position</string>
+
+    <string name="label_products">Products</string>
+    <string name="label_add_to_cart">Add to cart</string>
+    <string name="label_cart">Cart(%s)</string>
+    <string name="label_empty_cart">Empty Cart</string>
+
+
+</resources>
